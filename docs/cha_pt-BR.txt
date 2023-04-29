@@ -9,11 +9,17 @@ JOGO DO CHÁ (Cultura, Humor e Amor)
 INTRODUÇÃO
 ==========
 
-O JOGO DO CHÁ (Cultura, Humor e Amor) é um jogo fácil de aprender, divertido, rápido e dinâmico, que envolve um pouco de sorte e estratégia. Tem características do jogo "21" em que uma nova carta cega pode implicar numa melhoria ou piora das cartas atuais. Uma estratégia gananciosa pode arruinar tudo com J (Valete) em excesso, bem como uma estratégia tímida demais pode acabar formando poucos casais.
+O JOGO DO CHÁ (Cultura, Humor e Amor) é um jogo fácil de aprender, divertido, rápido e dinâmico, que envolve um pouco de
+sorte e estratégia. Tem características do jogo "21" em que uma nova carta cega pode implicar numa melhoria ou piora das
+cartas atuais. Uma  estratégia gananciosa pode arruinar tudo com  J (Valete) em excesso, bem como  uma estratégia tímida
+demais pode acabar formando poucos casais.
 
-A chance de dar empate em cada rodada é relativamente alta pelos testes realizados, sendo necessário algumas rodadas para que uma carta de Ouros seja comprada. O número mínimo de rodadas é 3 e o máximo é indefinido, dependendo de quantas derem empate.
+A chance de  dar empate em cada  rodada é relativamente alta  pelos testes realizados, sendo  necessário algumas rodadas
+para que uma carta de Ouros seja comprada. O número mínimo de rodadas é 3 e o máximo é indefinido, dependendo de quantas
+derem empate.
 
-O número máximo de casais formados em uma rodada são 4, apesar de ser bastante improvável que nenhum deles seja bloqueado.
+O número  máximo de  casais formados  em uma  rodada são  4, apesar  de ser  bastante improvável  que nenhum  deles seja
+bloqueado.
 
 
 MATERIAL
