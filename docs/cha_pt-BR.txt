@@ -31,11 +31,17 @@ MATERIAL
 SIMBOLOGIA
 ==========
 
-K (Rei) = Marido.  Q (Rainha) = Esposa.  J (Valete) = Amante (ou "Ladrão").  JOKER (Coringa) = Palhaço / Humor.
+K (Rei) = Marido.
+Q (Rainha) = Esposa.
+J (Valete) = Amante (ou "Ladrão").
+JOKER (Coringa) = Palhaço / Humor.
 
 Naipes:
 
-Ouro = Dinheiro.  Paus = Cultura.  Copas = Amor.  Espada = Fúria.
+Ouro = Dinheiro.
+Paus = Cultura.
+Copas = Amor.
+Espada = Fúria.
 
 
 1. OBJETIVO DO JOGO ===================
