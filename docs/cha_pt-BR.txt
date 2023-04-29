@@ -9,17 +9,11 @@ JOGO DO CHÁ (Cultura, Humor e Amor)
 INTRODUÇÃO
 ==========
 
-O JOGO DO CHÁ (Cultura, Humor e Amor) é um jogo fácil de aprender, divertido, rápido e dinâmico, que envolve um pouco de
-sorte e estratégia. Tem características do jogo "21" em que uma nova carta cega pode implicar numa melhoria ou piora das
-cartas atuais. Uma  estratégia gananciosa pode arruinar tudo com  J (Valete) em excesso, bem como  uma estratégia tímida
-demais pode acabar formando poucos casais.
+O JOGO DO CHÁ (Cultura, Humor e Amor) é um jogo fácil de aprender, divertido, rápido e dinâmico, que envolve um pouco de sorte e estratégia. Tem características do jogo "21" em que uma nova carta cega pode implicar numa melhoria ou piora das cartas atuais. Uma estratégia gananciosa pode arruinar tudo com J (Valete) em excesso, bem como uma estratégia tímida demais pode acabar formando poucos casais.
 
-A chance de  dar empate em cada  rodada é relativamente alta  pelos testes realizados, sendo  necessário algumas rodadas
-para que uma carta de Ouros seja comprada. O número mínimo de rodadas é 3 e o máximo é indefinido, dependendo de quantas
-derem empate.
+A chance de dar empate em cada rodada é relativamente alta pelos testes realizados, sendo necessário algumas rodadas para que uma carta de Ouros seja comprada. O número mínimo de rodadas é 3 e o máximo é indefinido, dependendo de quantas derem empate.
 
-O número  máximo de  casais formados  em uma  rodada são  4, apesar  de ser  bastante improvável  que nenhum  deles seja
-bloqueado.
+O número máximo de casais formados em uma rodada são 4, apesar de ser bastante improvável que nenhum deles seja bloqueado.
 
 
 MATERIAL
@@ -46,8 +40,7 @@ Ouro = Dinheiro.  Paus = Cultura.  Copas = Amor.  Espada = Fúria.
 
 1. OBJETIVO DO JOGO ===================
 
-1.1 O objetivo do jogo é terminar com mais "ouros". A carta "A"  (Ás) vale 1 ponto, a carta 2 vale 2 e assim por diante,
-até a 7. Então, se um jogador terminar com as cartas 3, 4 e 7 do naipe de Ouros ele soma 14 pontos.
+1.1 O objetivo do jogo é terminar com mais "ouros". A carta "A" (Ás) vale 1 ponto, a carta 2 vale 2 e assim por diante, até a 7. Então, se um jogador terminar com as cartas 3, 4 e 7 do naipe de Ouros ele soma 14 pontos.
 
 Veja também cap. 6. FIM DO JOGO.
 
@@ -58,8 +51,7 @@ Veja também cap. 6. FIM DO JOGO.
 
 2.2 Embaralhar e formar outro monte com os números de ouros. Esse monte representa o "baú do tesouro".
 
-2.3 Na primeira jogada,  cada jogador recebe duas cartas do  monte principal, que podem ser qualquer figura  (Q, J, K ou
-JOKER). Nesse primeiro momento apenas o jogador pode ver as suas próprias cartas, sem revelar ao adversário.
+2.3 Na primeira jogada, cada jogador recebe duas cartas do monte principal, que podem ser qualquer figura (Q, J, K ou JOKER). Nesse primeiro momento apenas o jogador pode ver as suas próprias cartas, sem revelar ao adversário.
 
 2.4 O jogador mais novo começa.
 
@@ -67,51 +59,33 @@ JOKER). Nesse primeiro momento apenas o jogador pode ver as suas próprias carta
 3. RODADA
 =========
 
-3.1  O objetivo  de cada  rodada é  acumular mais  casais  (K +  Q) válidos,  de acordo  com as  condições definidas  no
-cap. 4. REVELAÇÃO.
+3.1 O objetivo de cada rodada é acumular mais casais (K + Q) válidos, de acordo com as condições definidas no cap. 4. REVELAÇÃO.
 
-3.2 Na vez do  jogador atual, ele analisa suas cartas em  mãos e escolhe parar ou comprar mais uma  carta. Se ele parar,
-ele deve permanecer com as mesmas cartas em mãos até o momento em que as cartas forem reveladas.
+3.2 Na vez do jogador atual, ele analisa suas cartas em mãos e escolhe parar ou comprar mais uma carta. Se ele parar, ele deve permanecer com as mesmas cartas em mãos até o momento em que as cartas forem reveladas.
 
-3.3 Se  o jogador  adversário parou, o  jogador atual pode  continuar comprando  cartas indefinidamente ou  até escolher
-parar.
+3.3 Se o jogador adversário parou, o jogador atual pode continuar comprando cartas indefinidamente ou até escolher parar.
 
-3.4 Quando os  dois jogadores pararem é o  momento da REVELAÇÃO. Todas as cartas  em mãos devem ser colocadas  na mesa e
-reveladas.
+3.4 Quando os dois jogadores pararem é o momento da REVELAÇÃO. Todas as cartas em mãos devem ser colocadas na mesa e reveladas.
 
-3.5 Caso  não existam mais  cartas para  serem compradas no  "monte principal", a  rodada vai  para a fase  de REVELAÇÃO
-(cap. 4) obrigatoriamente.
+3.5 Caso não existam mais cartas para serem compradas no "monte principal", a rodada vai para a fase de REVELAÇÃO (cap. 4) obrigatoriamente.
 
 
 4. REVELAÇÃO
 ============
 
-4.1 Primeiro,  deve-se formar todos  os casais. Os  casais são o  conjunto de um K  (Rei / marido)  com uma Q  (Rainha /
-esposa). Manter casais de mesmo naipe juntos, quando possível, por causa das COMBINAÇÕES ESPECIAIS (cap. 5).
+4.1 Primeiro, deve-se formar todos os casais. Os casais são o conjunto de um K (Rei / marido) com uma Q (Rainha / esposa). Manter casais de mesmo naipe juntos, quando possível, por causa das COMBINAÇÕES ESPECIAIS (cap. 5).
 
-4.2 Segundo passo,  cada J (Valete / amante)  em mãos, vai "anular" um casal  na própria mão do usuário.  Esse casal não
-terá mais validade no momento de se contar os casais.
+4.2 Segundo passo, cada J (Valete / amante) em mãos, vai "anular" um casal na própria mão do usuário.  Esse casal não terá mais validade no momento de se contar os casais.
 
-4.3 Nesse  momento, os  J (Valetes  / amantes)  que sobrarem podem  ser utilizados  para "anular"  os casais  do jogador
-adversário, exceto  se o K e  Q do casal forem  ambos do naipe de  Copas (casal apaixonado), vide  COMBINAÇÕES ESPECIAIS
-(cap. 5.1).
+4.3 Nesse momento, os J (Valetes / amantes) que sobrarem podem ser utilizados para "anular" os casais do jogador adversário, exceto se o K e Q do casal forem ambos do naipe de Copas (casal apaixonado), vide COMBINAÇÕES ESPECIAIS (cap. 5.1).
 
-4.4. Se  depois dos passos anteriores  restar na mão  do jogador pelo menos  um J (Valete  / amante), o jogador  perde a
-rodada. Se os dois jogadores sobrarem com um J, há um empate na rodada.
+4.4. Se depois dos passos anteriores restar na mão do jogador pelo menos um J (Valete / amante), o jogador perde a rodada. Se os dois jogadores sobrarem com um J, há um empate na rodada.
 
-4.5. O jogador que terminar  com mais casais (não anulados) que o outro, ganha a  rodada. Se os jogadores terminarem com
-números de casais válidos iguais (exemplo: 0 a 0, 1 a 1 ou 2 a 2), há um empate na rodada.
+4.5. O jogador que terminar com mais casais (não anulados) que o outro, ganha a rodada. Se os jogadores terminarem com números de casais válidos iguais (exemplo: 0 a 0, 1 a 1 ou 2 a 2), há um empate na rodada.
 
-4.6 O  JOKER (Coringa,  o palhaço)  pode ser utilizado  para remover  um J da  própria mão  do jogador  (distração). Por
-exemplo: ele pode ser utilizado para remover um J que está anulando  um casal da sua própria mão, ou então um J que está
-sobrando (e  que poderia fazer  o jogador perder  a rodada de  acordo com o  item 4.4). O  JOKER pode remover  também um
-"amante intruso", ou seja, um J do jogador adversário que está anulando um casal seu.
+4.6 O JOKER (Coringa, o palhaço) pode ser utilizado para remover um J da própria mão do jogador (distração). Por exemplo: ele pode ser utilizado para remover um J que está anulando um casal da sua própria mão, ou então um J que está sobrando (e que poderia fazer o jogador perder a rodada de acordo com o item 4.4). O JOKER pode remover também um "amante intruso", ou seja, um J do jogador adversário que está anulando um casal seu.
 
-4.7 O jogador que ganhar a rodada pode comprar uma carta no "baú do tesouro" (monte com números do naipe de Ouros). Se o
-jogador possuir um "casal rico" em que ambos K e Q são do naipe de Ouros, então o jogador pode comprar duas cartas, vide
-COMBINAÇÕES ESPECIAIS (cap.  5.2). Essa carta deve ser acumulada  e guardada em monte separado junto  com o jogador pois
-ela será usada depois para a  contagem final (ver 6. FIM DO JOGO). Essa carta deve ser  visível a todos pois todos devem
-ser capaz de verificar a condição final do jogo (vide cap. 6. FIM DO JOGO).
+4.7 O jogador que ganhar a rodada pode comprar uma carta no "baú do tesouro" (monte com números do naipe de Ouros). Se o jogador possuir um "casal rico" em que ambos K e Q são do naipe de Ouros, então o jogador pode comprar duas cartas, vide COMBINAÇÕES ESPECIAIS (cap.  5.2). Essa carta deve ser acumulada e guardada em monte separado junto com o jogador pois ela será usada depois para a contagem final (ver 6. FIM DO JOGO). Essa carta deve ser visível a todos pois todos devem ser capaz de verificar a condição final do jogo (vide cap. 6. FIM DO JOGO).
 
 4.8 Em caso de empate na rodada, ninguém compra a carta no monte do "báu do tesouro".
 
@@ -121,34 +95,25 @@ ser capaz de verificar a condição final do jogo (vide cap. 6. FIM DO JOGO).
 5. COMBINAÇÕES ESPECIAIS
 ========================
 
-As combinações são casais (K+Q) de mesmo naipe. O super-poder só é válido caso o casal não esteja "anulado" por um J. Os
-poderes também só podem ser aplicados no momento da REVELAÇÃO (cap. 4) e nunca antes.
+As combinações são casais (K+Q) de mesmo naipe. O super-poder só é válido caso o casal não esteja "anulado" por um J. Os poderes também só podem ser aplicados no momento da REVELAÇÃO (cap. 4) e nunca antes.
 
 5.1 "Casal apaixonado" (duas Copas) não podem ser anulados por um J (Valete / amante).
 
 5.2 "Casal rico" (dois Ouros) dá o direito do jogador comprar duas cartas de Ouro se ganhar a rodada.
 
-5.3 "Casal culto" (dois Paus) tem direito a comprar mais  cartas mesmo depois da revelação. Após a revelação das cartas,
-o jogador  que possuir um K  e J de  naipe Paus pode comprar  quantas cartas quiser  para tentar reverter a  rodada caso
-esteja perdendo. Lembrando que se a rodada estiver empatada, comprar  mais cartas pode gerar um risco de perder a jogada
-por excesso de J (Valetes / amantes).
+5.3 "Casal culto" (dois Paus) tem direito a comprar mais cartas mesmo depois da revelação. Após a revelação das cartas, o jogador que possuir um K e J de naipe Paus pode comprar quantas cartas quiser para tentar reverter a rodada caso esteja perdendo. Lembrando que se a rodada estiver empatada, comprar mais cartas pode gerar um risco de perder a jogada por excesso de J (Valetes / amantes).
 
-5.4 "Casal valente" (duas Espadas)  rouba o JOKER (Coringa, o palhaço) do adversário e pode  utilizar em sua própria mão
-para remover um J (Valete / amante) indesejado.
+5.4 "Casal valente" (duas Espadas) rouba o JOKER (Coringa, o palhaço) do adversário e pode utilizar em sua própria mão para remover um J (Valete / amante) indesejado.
 
 
 6. FIM DO JOGO
 ==============
 
-O jogo termina quando  algum jogador atingir a soma de  pelo menos 15 pontos, pois seria  impossível reverter a situação
-(A+2+3+4+5+6+7 = 28).
+O jogo termina quando algum jogador atingir a soma de pelo menos 15 pontos, pois seria impossível reverter a situação (A+2+3+4+5+6+7 = 28).
 
-É  possível criar  variações  de jogo  com  menos cartas  no  "baú do  tesouro".  Dessa forma,  o  jogo terminaria  mais
-rapidamente. Se for fazer  isso, sempre mantenha as menores cartas, por  exemplo: A, 2 e 3. A soma  total seria 6, dessa
-forma, quem somar pelo menos 4 pontos ganharia o jogo.
+É possível criar variações de jogo com menos cartas no "baú do tesouro".  Dessa forma, o jogo terminaria mais rapidamente. Se for fazer isso, sempre mantenha as menores cartas, por exemplo: A, 2 e 3. A soma total seria 6, dessa forma, quem somar pelo menos 4 pontos ganharia o jogo.
 
-Se as cartas do  "baú do tesouro" acabarem e acontecer um empate  (por exemplo: 14 x 14 ou 3 x  3) uma nova rodada extra
-deve ser iniciada para decidir o vencedor final.
+Se as cartas do "baú do tesouro" acabarem e acontecer um empate (por exemplo: 14 x 14 ou 3 x 3) uma nova rodada extra deve ser iniciada para decidir o vencedor final.
 
 
 7. EXEMPLO DE JOGO
@@ -163,8 +128,7 @@ Para simplificar, os naipes serão representados por:
 
 Dessa forma, AO é Ás de Ouros, JP é J (Valete / amante) de Paus, QE é Q (Rainha / esposa) de Espadas.
 
-Como permite a variação de jogo descrita no cap. 6. FIM DO JOGO deixaremos apenas 3 cartas de Ouros: A, 2 e 3 no "baú do
-tesouro", para que o jogo termine mais rapidamente.
+Como permite a variação de jogo descrita no cap. 6. FIM DO JOGO deixaremos apenas 3 cartas de Ouros: A, 2 e 3 no "baú do tesouro", para que o jogo termine mais rapidamente.
 
 
 Rodada 1
@@ -176,74 +140,46 @@ Rodada 1
 
 3) O jogador A é mais novo, portanto começa.
 
-4) O jogador A decide comprar  mais uma carta, afinal, não possui nenhum J (que poderia  ser usado para bloquear o casal
-adversário) e nenhum casal. Por enquanto, não tem nada a perder.
+4) O jogador A decide comprar mais uma carta, afinal, não possui nenhum J (que poderia ser usado para bloquear o casal adversário) e nenhum casal. Por enquanto, não tem nada a perder.
 
 5) O jogador A compra então um JOKER (Coringa, o palhaço) e agora tem: QP, QC e JOKER.
 
-6) Vez do jogador  B. O jogador B possui um JC (Valete  / amante) de Copas e esse J pode  ser utilizado para bloquear um
-casal adversário.  Porém, se o  adversário não formar  nenhum casal,  ele pode perder  a rodada. Comprar  cartas poderia
-colocar ainda mais em risco a sua rodada se saísse algum J. Mesmo assim, ele decide arriscar e compra uma carta.
+6) Vez do jogador B. O jogador B possui um JC (Valete / amante) de Copas e esse J pode ser utilizado para bloquear um casal adversário.  Porém, se o adversário não formar nenhum casal, ele pode perder a rodada. Comprar cartas poderia colocar ainda mais em risco a sua rodada se saísse algum J. Mesmo assim, ele decide arriscar e compra uma carta.
 
-7) O jogador B compra mais um J, dessa vez do naipe de Ouros. Suas cartas são: JO, KO e JC. Agora seu jogo está em risco
-pois,  se não  conseguir utilizar  os dois  J para  bloquear dois  casais, seu  jogo estaria  perdido por  possuir um  J
-sobrando. Ele pode minimizar  o problema tentando comprar mais cartas  e formar um casal. Dessa forma, o  um dos J seria
-usado para anular o seu próprio casal, mas ao menos ele não perderia o jogo automaticamente.
+7) O jogador B compra mais um J, dessa vez do naipe de Ouros. Suas cartas são: JO, KO e JC. Agora seu jogo está em risco pois, se não conseguir utilizar os dois J para bloquear dois casais, seu jogo estaria perdido por possuir um J sobrando. Ele pode minimizar o problema tentando comprar mais cartas e formar um casal. Dessa forma, o um dos J seria usado para anular o seu próprio casal, mas ao menos ele não perderia o jogo automaticamente.
 
-8) É a vez do jogador A. Se o jogador A pudesse ver as cartas do adversário, provavelmente ele pararia de comprar cartas
-aqui porque o adversário não poderia utilizar um J para  bloquear nenhum casal (nenhum ainda foi formado) e ele perderia
-por sobrar com dois J em mãos. Porém, o jogador A não sabe da situação e como não tem nenhum casal formado, e também tem
-um JOKER para caso de emergência, decide comprar uma nova carta.
+8) É a vez do jogador A. Se o jogador A pudesse ver as cartas do adversário, provavelmente ele pararia de comprar cartas aqui porque o adversário não poderia utilizar um J para bloquear nenhum casal (nenhum ainda foi formado) e ele perderia por sobrar com dois J em mãos. Porém, o jogador A não sabe da situação e como não tem nenhum casal formado, e também tem um JOKER para caso de emergência, decide comprar uma nova carta.
 
-9) O jogador A comprou um KP (Rei / marido de Paus) e agora tem as cartas: QP+KP, QC e JOKER. Note que agora o jogador A
-pode formar um  casal, e de mesmo  naipe, o que lhe dá  super-poderes! Então, ele junta as  cartas QP e KP  em mãos para
-formar o casal (QP+KP). Agora o jogador A possui duas vantagens: ele tem um "casal culto" (conjunto de Paus) que permite
-ele continuar comprando cartas mesmo após a revelação e também um JOKER. Dificilmente ele vai perder a rodada.
+9) O jogador A comprou um KP (Rei / marido de Paus) e agora tem as cartas: QP+KP, QC e JOKER. Note que agora o jogador A pode formar um casal, e de mesmo naipe, o que lhe dá super-poderes! Então, ele junta as cartas QP e KP em mãos para formar o casal (QP+KP). Agora o jogador A possui duas vantagens: ele tem um "casal culto" (conjunto de Paus) que permite ele continuar comprando cartas mesmo após a revelação e também um JOKER. Dificilmente ele vai perder a rodada.
 
-10) Vez  do jogador  B. O jogador  B está  com um jogo  muito arriscado, pois  ele não  sabe que o  jogador A  formou um
-casal. Se ele pudesse ver as cartas do adversário, provavelmente  saberia que seu jogo não está tão ruim, afinal, usaria
-um J para anular o casal e  sobraria apenas um J em suas mãos. Porém, de qualquer forma, restar  com um J ainda lhe dá a
-derrota, então ele compra uma nova carta.
+10) Vez do jogador B. O jogador B está com um jogo muito arriscado, pois ele não sabe que o jogador A formou um casal. Se ele pudesse ver as cartas do adversário, provavelmente saberia que seu jogo não está tão ruim, afinal, usaria um J para anular o casal e sobraria apenas um J em suas mãos. Porém, de qualquer forma, restar com um J ainda lhe dá a derrota, então ele compra uma nova carta.
 
-11) O jogador B  compra um QE (Rainha / esposa de Espadas).  Ele consegue formar um casal. Como possui dois  J, um dos J
-será usado para "anular" o casal em sua própria mão. Então ele organiza assim eu suas mãos: KO+QE+JC (triângulo amoroso,
-Marido, Esposa e Amante) e um JO sobrando. Se a rodada terminasse agora, daria empate, pois o J sobrando seria utilizado
-para anular o casal adversário, e o resultado final seria 0x0.
+11) O jogador B compra um QE (Rainha / esposa de Espadas).  Ele consegue formar um casal. Como possui dois J, um dos J será usado para "anular" o casal em sua própria mão. Então ele organiza assim eu suas mãos: KO+QE+JC (triângulo amoroso, Marido, Esposa e Amante) e um JO sobrando. Se a rodada terminasse agora, daria empate, pois o J sobrando seria utilizado para anular o casal adversário, e o resultado final seria 0x0.
 
-12) O jogador A possui: QP+KP, QC e JOKER. Ele poderia parar  agora porque em último caso ele pode utilizar o JOKER ou o
-poder do "casal culto" para comprar mais cartas no fim. Então, ele decide parar e não compra mais cartas.
+12) O jogador A possui: QP+KP, QC e JOKER. Ele poderia parar agora porque em último caso ele pode utilizar o JOKER ou o poder do "casal culto" para comprar mais cartas no fim. Então, ele decide parar e não compra mais cartas.
 
-13) O  jogador B agora  está jogando sozinho  na rodada.  Suas cartas são:  KO+QE+JC e JO.  Agora, não parece  ser muita
-vantagem comprar mais  cartas pois seria difícil formar  um novo casal e, se formasse,  ele teria que usar o  seu J para
-anular o seu próprio casal ao  invés de poder utilizar o J para anular um possível  casal adversário. Além disso, como o
-jogador A parou de jogar, ele presume que o A possa ter formado um casal, que ele poderia anular com o J para não perder
-a rodada. Então decide parar.
+13) O jogador B agora está jogando sozinho na rodada.  Suas cartas são: KO+QE+JC e JO.  Agora, não parece ser muita vantagem comprar mais cartas pois seria difícil formar um novo casal e, se formasse, ele teria que usar o seu J para anular o seu próprio casal ao invés de poder utilizar o J para anular um possível casal adversário. Além disso, como o jogador A parou de jogar, ele presume que o A possa ter formado um casal, que ele poderia anular com o J para não perder a rodada. Então decide parar.
 
 14) As cartas são reveladas assim:
 
 - Jogador A: QP+KP (casal culto), QC e JOKER.
 - Jogador B: KO+QE+JC (triângulo / casal anulado) e JO.
 
-15) Nesse momento,  o jogador A está ganhando  pois possui 1 casal  a 0 do jogador B.  Além disso, o jogador B  tem um J
-sobrando, o que não é permitido.  Porém, o jogador B tem a oportunidade de anular o casal  QP+KP com o seu JO. Lembrando
-que, ao fazer isso, o jogador A também perde os super-poderes do "casal culto".
+15) Nesse momento, o jogador A está ganhando pois possui 1 casal a 0 do jogador B.  Além disso, o jogador B tem um J sobrando, o que não é permitido.  Porém, o jogador B tem a oportunidade de anular o casal QP+KP com o seu JO. Lembrando que, ao fazer isso, o jogador A também perde os super-poderes do "casal culto".
 
 16) Nesse momento, as cartas estão assim:
 
 - Jogador A: QP+KP+JO (triângulo / casal anulado), QC e JOKER.
 - Jogador B: KO+QE+JC (triângulo / casal anulado).
 
-17) Por sorte, o jogador A ainda tem o JOKER que será utilizado para remover o J que anulou o seu casal. Dessa forma, as
-cartas ficam:
+17) Por sorte, o jogador A ainda tem o JOKER que será utilizado para remover o J que anulou o seu casal. Dessa forma, as cartas ficam:
 
 - Jogador A: QP+KP (casal culto), QC, JOKER+JO.
 - Jogador B: KO+QE+JC (triângulo / casal anulado).
 
-18) Nesse momento,  o jogador A recupera o  poder do casal culto,  porém não será necessário utilizá-lo,  afinal, ele já
-possui um casal a mais que o jogador B. O resultado da rodada é 1x0 para o jogador A.
+18) Nesse momento, o jogador A recupera o poder do casal culto, porém não será necessário utilizá-lo, afinal, ele já possui um casal a mais que o jogador B. O resultado da rodada é 1x0 para o jogador A.
 
-19) O jogador A  compra uma carta no "baú do tesouro" e  sai um A (Ás) de Ouros. O jogador  A possui atualmente 1 ponto,
-que deve ser visível a todos. Como nenhum jogador somou ainda 4 pontos, o jogo continua para a próxima rodada.
+19) O jogador A compra uma carta no "baú do tesouro" e sai um A (Ás) de Ouros. O jogador A possui atualmente 1 ponto, que deve ser visível a todos. Como nenhum jogador somou ainda 4 pontos, o jogo continua para a próxima rodada.
 
 Rodada 2
 --------
@@ -253,48 +189,33 @@ Rodada 2
 
 22) O jogador A é mais novo, portanto começa.
 
-23) A situação do jogador A já começou complicada pois ele  possui 2 J e se não conseguir bloquear dois casais perderá o
-jogo. Ele decide comprar mais uma carta pois não tem nada a perder.
+23) A situação do jogador A já começou complicada pois ele possui 2 J e se não conseguir bloquear dois casais perderá o jogo. Ele decide comprar mais uma carta pois não tem nada a perder.
 
-24) O jogador  A compra um KE (Rei /  marido de Espadas). Agora o jogador  A possui: JC, JE e KE.  A situação ainda está
-difícil, mas agora surge uma esperança de sair um Q (Rainha /  esposa) e formar um casal. Se formar um casal, um J seria
-usado para anular o seu próprio casal e o outro poderia ser usado para anular o casal do adversário.
+24) O jogador A compra um KE (Rei / marido de Espadas). Agora o jogador A possui: JC, JE e KE.  A situação ainda está difícil, mas agora surge uma esperança de sair um Q (Rainha / esposa) e formar um casal. Se formar um casal, um J seria usado para anular o seu próprio casal e o outro poderia ser usado para anular o casal do adversário.
 
-25) Vez do jogador B. O jogador B já tem um casal e como ele quer fazer um jogo mais conservador, ele decide parar e não
-comprar mais cartas. Sua situação é KC+QO (casal) como no início.
+25) Vez do jogador B. O jogador B já tem um casal e como ele quer fazer um jogo mais conservador, ele decide parar e não comprar mais cartas. Sua situação é KC+QO (casal) como no início.
 
-26) O jogador A agora está  jogando a rodada sozinho. Ele imagina que o jogador B tenha  formado pelo menos um casal, ou
-então que tenha pelo menos um J para anular um casal seu. Como ainda não tem muito a perder, afinal se o jogo terminasse
-agora perderia por ter um J sobrando, ele decide continuar comprando. Está torcendo para que saia um Q.
+26) O jogador A agora está jogando a rodada sozinho. Ele imagina que o jogador B tenha formado pelo menos um casal, ou então que tenha pelo menos um J para anular um casal seu. Como ainda não tem muito a perder, afinal se o jogo terminasse agora perderia por ter um J sobrando, ele decide continuar comprando. Está torcendo para que saia um Q.
 
-27) O  jogador A compra um  JP (Valete / amante  de Paus). Agora  a situação de A  complicou de vez. Não  existem casais
-suficientes no  jogo para tantas anulações.  Como não tem  nada a perder,  continua comprando na esperança  de conseguir
-algum JOKER ou casais com super-poderes. Sua situação atual é: JC, JP, JE e KE.
+27) O jogador A compra um JP (Valete / amante de Paus). Agora a situação de A complicou de vez. Não existem casais suficientes no jogo para tantas anulações.  Como não tem nada a perder, continua comprando na esperança de conseguir algum JOKER ou casais com super-poderes. Sua situação atual é: JC, JP, JE e KE.
 
-28) O jogador A compra um QC (Rainha / esposa de Copas). Agora sua situação é: KE+QC+JC (triângulo), JE e JP. A situação
-está menos complicada que antes, mas ainda assim não dá pra parar, então decide comprar mais.
+28) O jogador A compra um QC (Rainha / esposa de Copas). Agora sua situação é: KE+QC+JC (triângulo), JE e JP. A situação está menos complicada que antes, mas ainda assim não dá pra parar, então decide comprar mais.
 
-29) Comprou um QP (Rainha  / esposa de Paus). Agora está: KE+QC+JC (triângulo), JE, JP  e QP. Decide continuar comprando
-para tentar um K ou algum milagre.
+29) Comprou um QP (Rainha / esposa de Paus). Agora está: KE+QC+JC (triângulo), JE, JP e QP. Decide continuar comprando para tentar um K ou algum milagre.
 
-30) Comprou um KP  (Rei / marido de Paus). Ele conseguiu  formar o "casal culto" (mas que será anulado  por um J), então
-sua situação agora ficou: KE+QC+JC, KP+QP+JP  e JE. Agora, como o jogador A parou de jogar  faz tempo, e com apenas duas
-cartas, ele imagina que o jogador A tenha um casal. Dessa forma, para evitar perder, é melhor garantir um empate e então
-ele decide parar de jogar.
+30) Comprou um KP (Rei / marido de Paus). Ele conseguiu formar o "casal culto" (mas que será anulado por um J), então sua situação agora ficou: KE+QC+JC, KP+QP+JP e JE. Agora, como o jogador A parou de jogar faz tempo, e com apenas duas cartas, ele imagina que o jogador A tenha um casal. Dessa forma, para evitar perder, é melhor garantir um empate e então ele decide parar de jogar.
 
 31) As cartas são reveladas assim:
 
 - Jogador A: KE+QC+JC (triângulo / casal anulado), KP+QP+JP (triângulo / casal anulado) e JE.
 - Jogador B: QO+KC (casal).
 
-32) Se a rodada terminasse agora, o jogador B ganharia, pois  seria 1x0. Mas, o jogador A tem a oportunidade de anular o
-casal de B com o seu JE e assim o faz, ficando assim:
+32) Se a rodada terminasse agora, o jogador B ganharia, pois seria 1x0. Mas, o jogador A tem a oportunidade de anular o casal de B com o seu JE e assim o faz, ficando assim:
 
 - Jogador A: KE+QC+JC (triângulo / casal anulado), KP+QP+JP (triângulo / casal anulado).
 - Jogador B: QO+KC+JE (triângulo / casal anulado).
 
-33) Como  não há JOKER e  nem casais válidos com  poderes, a rodada termina  empatada (0x0). Nesse caso,  ninguém compra
-nenhuma carta do baú.
+33) Como não há JOKER e nem casais válidos com poderes, a rodada termina empatada (0x0). Nesse caso, ninguém compra nenhuma carta do baú.
 
 Rodada 3
 --------
@@ -304,29 +225,21 @@ Rodada 3
 
 36) O jogador A é mais novo, portanto começa.
 
-37) Assim como  na rodada anterior, o jogador  A começa em situação  difícil, então decide comprar uma  carta pra tentar
-minimizar o dano.
+37) Assim como na rodada anterior, o jogador A começa em situação difícil, então decide comprar uma carta pra tentar minimizar o dano.
 
 38) O jogador A compra a carta QE ficando com: JP, JE e QE.
 
-39) O jogador B começa em situação menos difícil que o A, porém não muito fácil pois já possui um J. Comprar mais cartas
-poderia complicar a situação: se comprar um K, o seu J que poderia ser utilizado para anular o casal do adversário seria
-usado para  anular o seu  próprio casal. Por  isso, contando que o  adversário formará pelo  menos um casal,  ele decide
-tentar garantir um empate ao invés de correr o risco de perder, então para de comprar com um JC e QO.
+39) O jogador B começa em situação menos difícil que o A, porém não muito fácil pois já possui um J. Comprar mais cartas poderia complicar a situação: se comprar um K, o seu J que poderia ser utilizado para anular o casal do adversário seria usado para anular o seu próprio casal. Por isso, contando que o adversário formará pelo menos um casal, ele decide tentar garantir um empate ao invés de correr o risco de perder, então para de comprar com um JC e QO.
 
-40) O jogador  A agora está jogando sozinho. Se  o jogo terminasse agora, daria empate,  pois ninguém conseguiria anular
-nenhum casal e os dois sobrariam com pelo menos um J. Porém,  o jogador A não faz ideia que o jogador B não formou casal
-e imagina que se parar agora poderia perder pois ficaria com um J sobrando. Dessa forma, decide comprar uma carta.
+40) O jogador A agora está jogando sozinho. Se o jogo terminasse agora, daria empate, pois ninguém conseguiria anular nenhum casal e os dois sobrariam com pelo menos um J. Porém, o jogador A não faz ideia que o jogador B não formou casal e imagina que se parar agora poderia perder pois ficaria com um J sobrando. Dessa forma, decide comprar uma carta.
 
-41) O jogador A compra um  JO. Agora a situação despirocou de vez. Ele tem: JP, JE, JO  e QE. Se o jogo terminasse agora
-daria empate, mas o jogador A não sabe disso, então acha que não tem nada a perder e continua comprando.
+41) O jogador A compra um JO. Agora a situação despirocou de vez. Ele tem: JP, JE, JO e QE. Se o jogo terminasse agora daria empate, mas o jogador A não sabe disso, então acha que não tem nada a perder e continua comprando.
 
 42) O jogador A compra um JOKER: JP, JE, JO, QE e JOKER. Decide continuar.
 
 43) O jogador A compra um KO e forma um casal, que será anulado por um J: KO+QE+JP (triângulo), JE, JO e JOKER.
 
-44)  O jogador  A  vê uma  oportunidade  de  ganhar: o  JOKER  anula um  J  seu e  o  outro  J pode  anular  o casal  do
-adversário. Afinal, se o B parou faz tempo com duas cartas, ele deve ter pelo menos um casal.
+44) O jogador A vê uma oportunidade de ganhar: o JOKER anula um J seu e o outro J pode anular o casal do adversário. Afinal, se o B parou faz tempo com duas cartas, ele deve ter pelo menos um casal.
 
 45) As cartas são reveladas assim:
 
@@ -359,22 +272,18 @@ Para agilizar o exemplo, omitirei algumas explicações nesta rodada.
 
 55) A compra QO: KP+QP+JC (triângulo), KE+QO+JE (triângulo).
 
-56) B decide parar com: KC+QC (casal apaixonado), JOKER+JP (J anulado pelo JOKER) e KO, pois sabe que o casal apaixonado
-não pode ser anulado, então garante pelo menos 1 casal.
+56) B decide parar com: KC+QC (casal apaixonado), JOKER+JP (J anulado pelo JOKER) e KO, pois sabe que o casal apaixonado não pode ser anulado, então garante pelo menos 1 casal.
 
-57) A compra JO:  KP+QP+JC (triângulo), KE+QO+JE (triângulo), JO. A  decide parar pois imagina que B tem  um casal e que
-ele anulará o casal com o JO, para pelo menos garantir um empate.
+57) A compra JO: KP+QP+JC (triângulo), KE+QO+JE (triângulo), JO. A decide parar pois imagina que B tem um casal e que ele anulará o casal com o JO, para pelo menos garantir um empate.
 
 58) As cartas são reveladas assim:
 
 - Jogador A: KP+QP+JC, KE+QO+JE, JO.
 - Jogador B: KC+QP (casal apaixonado), JOKER+JP e KO.
 
-O jogador A fica momentanemanete feliz pois anularia um casal de B com seu J sobrando, mas o problema é que o casal de B
-é o "casal apaixonado" (naipe de Copas) e portanto é imbatível. Dessa forma, o jogador B ganha a rodada.
+O jogador A fica momentanemanete feliz pois anularia um casal de B com seu J sobrando, mas o problema é que o casal de B é o "casal apaixonado" (naipe de Copas) e portanto é imbatível. Dessa forma, o jogador B ganha a rodada.
 
-59) O jogador B compra uma carta no "baú do tesouro": comprou um 2 de Ouros. O placar geral agora está 2 pontos para B e
-1 para A. Como a única carta que restou do "baú do tesouro" é a carta 3, quem ganhar a próxima rodada ganha o jogo.
+59) O jogador B compra uma carta no "baú do tesouro": comprou um 2 de Ouros. O placar geral agora está 2 pontos para B e 1 para A. Como a única carta que restou do "baú do tesouro" é a carta 3, quem ganhar a próxima rodada ganha o jogo.
 
 Rodada 5
 --------
@@ -399,9 +308,7 @@ Rodada 5
 
 69) A compra um KP: KP+QP+JP (casal culto anulado pelo J), QE, JC, JO e JE.
 
-70) A compra um  KE: KP+QP+JP (casal culto anulado pelo J),  KE+QE+JE (casal valente anulado pelo J), JC  e JO. O "casal
-valente" (casal de naipe de Espadas) poderia salvar o jogador A pois esse poderia roubar o JOKER do jogador B no momento
-da REVELAÇÃO, mas infelizmente o seu casal super-poderoso foi anulado por um J.
+70) A compra um KE: KP+QP+JP (casal culto anulado pelo J), KE+QE+JE (casal valente anulado pelo J), JC e JO. O "casal valente" (casal de naipe de Espadas) poderia salvar o jogador A pois esse poderia roubar o JOKER do jogador B no momento da REVELAÇÃO, mas infelizmente o seu casal super-poderoso foi anulado por um J.
 
 71) A compra um QC: KP+QP+JP, KE+QE+JE, JC, JO e QC.
 
@@ -417,18 +324,13 @@ Agora, o jogador A tem a oportunidade de anular um casal de B, ficando assim:
 - Jogador A: KP+QP+JP, KE+QE+JE, JC, QC.
 - Jogador B: KO+QO+JO (casal rico anulado por JO), KC e JOKER.
 
-74) Mesmo com essa tentativa, o jogador A ainda perderia pois estaria sobrando um J, que não pode acontecer. Mas fazendo
-esse movimento o jogador A  poderia anular o super-poder do "casal rico" e evitar que  o jogador B comprasse duas cartas
-no "baú do tesouro".
+74) Mesmo com essa tentativa, o jogador A ainda perderia pois estaria sobrando um J, que não pode acontecer. Mas fazendo esse movimento o jogador A poderia anular o super-poder do "casal rico" e evitar que o jogador B comprasse duas cartas no "baú do tesouro".
 
 75) Mas, o jogador B ainda possui um JOKER, podendo usá-lo para remover o J do "casal rico", ficando assim:
 
 - Jogador A: KP+QP+JP, KE+QE+JE, JC, QC.
 - Jogador B: KO+QO (casal rico restaurado), KC e JOKER+JO.
 
-76) Por conta do "casal rico", o jogador B tem direito a comprar duas cartas no "baú do tesouro". Que pena, só resta uma
-carta no monte,  a carta 3 de  Ouros, então esse super-poder  não foi aproveitado no  final das contas. Mas  o jogador B
-ganhou o jogo de qualquer forma.
+76) Por conta do "casal rico", o jogador B tem direito a comprar duas cartas no "baú do tesouro". Que pena, só resta uma carta no monte, a carta 3 de Ouros, então esse super-poder não foi aproveitado no final das contas. Mas o jogador B ganhou o jogo de qualquer forma.
 
 77) O jogador B ganhou de virada de 5x1 do jogador A. :-)
-

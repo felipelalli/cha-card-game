@@ -3,21 +3,37 @@ THE CHA GAME (Culture, Humor and Affection)
 
 - Time: 10 to 30 minutes.
 - Players: 2.
-- Age: from 12 years old. (For minors, it is recommended to replace the term "lover" with "thief").
+- Age: from  12 years old.  (For minors,
+  it is recommended  to replace the term
+  "lover" with "thief").
 
 INTRODUCTION
 ============
 
-THE CHA GAME  (Culture, Humor and Affection) is  an easy-to-learn, fun, quick,  and dynamic game that involves  a bit of
-luck and  strategy. It has  characteristics of the  game "21,"  in which a  new blind card  can imply an  improvement or
-worsening of the current cards. A greedy strategy can ruin  everything with too many Js (Jacks), just as an overly timid
-strategy can end up forming few couples.
+THE   CHA  GAME   (Culture,  Humor   and
+Affection)  is  an  easy-to-learn,  fun,
+quick, and dynamic  game that involves a
+bit  of   luck  and  strategy.   It  has
+characteristics  of  the game  "21,"  in
+which  a new  blind  card  can imply  an
+improvement or worsening  of the current
+cards.  A   greedy  strategy   can  ruin
+everything  with  too many  Js  (Jacks),
+just as an overly timid strategy can end
+up forming few couples.
 
-The chance of a tie in each round is relatively high according to the tests performed, and it takes several rounds for a
-Diamond card to  be purchased. The minimum number  of rounds is 3, and  the maximum is undefined, depending  on how many
-result in a tie.
+The  chance of  a tie  in each  round is
+relatively high  according to  the tests
+performed, and  it takes  several rounds
+for a Diamond card  to be purchased. The
+minimum number  of rounds is 3,  and the
+maximum is  undefined, depending  on how
+many result in a tie.
 
-The maximum number of couples formed in a round is 4, although it is highly unlikely that none of them will be blocked.
+The maximum number  of couples formed in
+a  round is  4,  although  it is  highly
+unlikely  that  none  of  them  will  be
+blocked.
 
 MATERIAL
 ========
@@ -49,8 +65,12 @@ Spades = Fury.
 1. OBJECTIVE OF THE GAME
 ========================
 
-1.1 The objective of the game is to end up with more "diamonds."  The A (Ace) card is worth 1 point, the 2 card is worth
-2, and so on, up to 7. So, if a player ends up with the 3, 4, and 7 of Diamonds, they score 14 points.
+1.1 The objective of  the game is to end
+up  with more  "diamonds."  The  A (Ace)
+card  is worth  1 point,  the 2  card is
+worth 2,  and so on,  up to 7. So,  if a
+player ends up  with the 3, 4,  and 7 of
+Diamonds, they score 14 points.
 
 See also Chapter 6. END OF THE GAME.
 
@@ -58,12 +78,20 @@ See also Chapter 6. END OF THE GAME.
 2. PREPARATION
 ==============
 
-2.1 Shuffle and form a pile with the face cards and the JOKER, called the "main pile."
+2.1  Shuffle and  form a  pile with  the
+face  cards and  the  JOKER, called  the
+"main pile."
 
-2.2 Shuffle and form another pile with the Diamond numbered cards. This pile represents the "treasure chest."
+2.2 Shuffle  and form another  pile with
+the  Diamond numbered  cards. This  pile
+represents the "treasure chest."
 
-2.3 In  the first play,  each player receives two  cards from the  main pile, which  can be any face  card (Q, J,  K, or
-JOKER). At this first moment, only the player can see their own cards without revealing them to the opponent.
+2.3  In  the  first  play,  each  player
+receives two  cards from the  main pile,
+which can be any face  card (Q, J, K, or
+JOKER). At  this first moment,  only the
+player can  see their own  cards without
+revealing them to the opponent.
 
 2.4 The youngest player starts.
 
@@ -71,87 +99,163 @@ JOKER). At this first moment, only the player can see their own cards without re
 3. ROUND
 ========
 
-3.1 The  objective of each round  is to accumulate more  valid couples (K +  Q), according to the  conditions defined in
+3.1 The  objective of  each round  is to
+accumulate more  valid couples (K  + Q),
+according to  the conditions  defined in
 Chapter 4. REVELATION.
 
-3.2 On the current  player's turn, they analyze their hand and  choose to stop or draw another card.  If they stop, they
-must keep the same cards in their hand until the cards are revealed.
+3.2 On  the current player's  turn, they
+analyze their hand and choose to stop or
+draw another  card.  If they  stop, they
+must keep  the same cards in  their hand
+until the cards are revealed.
 
-3.3 If the opponent player has stopped, the current player  can continue to draw cards indefinitely or until they choose
+3.3 If the  opponent player has stopped,
+the current player  can continue to draw
+cards indefinitely or  until they choose
 to stop.
 
-3.4 When  both players  have stopped, it  is time for  REVELATION. All  cards in hand  must be placed  on the  table and
+3.4 When  both players have  stopped, it
+is  time for  REVELATION.  All cards  in
+hand  must be  placed on  the table  and
 revealed.
 
-3.5 If there are no more  cards to be drawn from the "main pile," the round goes to  the REVELATION phase (Chapter 4) by
-default.
+3.5  If there  are no  more cards  to be
+drawn  from the  "main pile,"  the round
+goes to the REVELATION phase (Chapter 4)
+by default.
 
 
 4. REVELATION
 =============
 
-4.1 First,  all couples must  be formed. Couples are  a set of  one K (King  / husband) and one  Q (Queen /  wife). Keep
-couples of the same suit together, when possible, because of the SPECIAL COMBINATIONS (Chapter 5).
+4.1   First,   all   couples   must   be
+formed. Couples are a set of one K (King
+/   husband)   and   one  Q   (Queen   /
+wife).  Keep couples  of  the same  suit
+together, when possible,  because of the
+SPECIAL COMBINATIONS (Chapter 5).
 
-4.2 Second, each J (Jack / lover) in hand will "cancel" a couple in the user's hand. This couple will no longer be valid
-when counting couples.
+4.2  Second, each  J (Jack  / lover)  in
+hand  will  "cancel"  a  couple  in  the
+user's hand. This  couple will no longer
+be valid when counting couples.
 
-4.3 At this point, any remaining Js (Jacks / lovers) can  be used to "cancel" the opponent's couples, except if both the
-K and Q of the couple are from the suit of Hearts (loving couple), see SPECIAL COMBINATIONS (Chapter 5.1).
+4.3  At  this  point, any  remaining  Js
+(Jacks / lovers) can be used to "cancel"
+the opponent's  couples, except  if both
+the K and  Q of the couple  are from the
+suit  of  Hearts  (loving  couple),  see
+SPECIAL COMBINATIONS (Chapter 5.1).
 
-4.4 If  after the previous  steps, at least  one J (Jack  / lover) remains  in the player's  hand, the player  loses the
-round. If both players end up with one J, there is a tie in the round.
+4.4  If  after  the previous  steps,  at
+least one  J (Jack  / lover)  remains in
+the player's hand,  the player loses the
+round. If  both players end up  with one
+J, there is a tie in the round.
 
-4.5 The player who  ends up with more couples (not canceled)  than the other wins the round. If the  players end up with
-equal numbers of valid couples (example: 0 to 0, 1 to 1, or 2 to 2), there is a tie in the round.
+4.5  The player  who ends  up with  more
+couples  (not canceled)  than the  other
+wins the  round. If  the players  end up
+with  equal  numbers  of  valid  couples
+(example: 0  to 0, 1  to 1, or 2  to 2),
+there is a tie in the round.
 
-4.6 The JOKER (Clown, the humor) can be used to remove  a J from the player's hand (distraction). For example, it can be
-used to remove a J  that is canceling a couple in their hand  or a J that is left over (which  could cause the player to
-lose the round  according to item 4.4). The  JOKER can also remove an  "intrusive lover," meaning a J  from the opponent
-that is canceling one of your couples.
+4.6 The JOKER (Clown,  the humor) can be
+used  to remove  a J  from the  player's
+hand (distraction). For  example, it can
+be used to remove  a J that is canceling
+a couple  in their hand  or a J  that is
+left over (which  could cause the player
+to  lose  the  round according  to  item
+4.4).  The  JOKER  can  also  remove  an
+"intrusive lover," meaning  a J from the
+opponent that  is canceling one  of your
+couples.
 
-4.7 The player who  wins the round can buy a card  from the "treasure chest" (pile with Diamond  numbered cards). If the
-player has a  "rich couple" where both  K and Q are from  the suit of Diamonds, then  the player can buy  two cards, see
-SPECIAL COMBINATIONS (Chapter 5.2). This  card must be accumulated and stored in a separate pile  next to the player, as
-it will be used later for  the final count (see 6. END OF THE GAME). This card must  be visible to everyone, as everyone
-should be able to verify the final game condition (see Chapter 6. END OF THE GAME).
+4.7 The  player who  wins the  round can
+buy  a card  from  the "treasure  chest"
+(pile with  Diamond numbered  cards). If
+the  player has  a  "rich couple"  where
+both  K  and  Q  are from  the  suit  of
+Diamonds,  then the  player can  buy two
+cards, see SPECIAL COMBINATIONS (Chapter
+5.2). This card  must be accumulated and
+stored in  a separate  pile next  to the
+player, as it will be used later for the
+final   count  (see   6.   END  OF   THE
+GAME).  This  card  must be  visible  to
+everyone, as everyone  should be able to
+verify  the  final game  condition  (see
+Chapter 6. END OF THE GAME).
 
-4.8 In the case of a tie in the round, no one buys a card from the "treasure chest" pile.
+4.8 In the  case of a tie  in the round,
+no one  buys a  card from  the "treasure
+chest" pile.
 
-4.9 After the end of the round, the cards should be shuffled and returned to the "main pile."
+4.9  After the  end  of  the round,  the
+cards should be shuffled and returned to
+the "main pile."
 
 
 5. SPECIAL COMBINATIONS
 =======================
 
-Combinations are  couples (K+Q) of  the same suit. The  superpower is only  valid if the  couple is not "canceled"  by a
-J. Powers can also only be applied at the time of REVELATION (Chapter 4) and never before.
+Combinations  are couples  (K+Q) of  the
+same suit. The  superpower is only valid
+if  the couple  is not  "canceled" by  a
+J. Powers  can also  only be  applied at
+the time  of REVELATION (Chapter  4) and
+never before.
 
-5.1 "Loving couple" (two Hearts) cannot be canceled by a J (Jack / lover).
+5.1 "Loving couple"  (two Hearts) cannot
+be canceled by a J (Jack / lover).
 
-5.2 "Rich couple" (two Diamonds) allows the player to buy two Diamond cards if they win the round.
+5.2 "Rich couple"  (two Diamonds) allows
+the player  to buy two Diamond  cards if
+they win the round.
 
-5.3 "Cultured couple" (two Clubs) has the right to buy  more cards even after the revelation. After revealing the cards,
-the player with a K and J  of the Clubs suit can buy as many cards as they want to try  to reverse the round if they are
-losing. Remember that if the round is tied, buying more cards can  create a risk of losing the round due to an excess of
-Js (Jacks / lovers).
+5.3  "Cultured couple"  (two Clubs)  has
+the right  to buy more cards  even after
+the  revelation.   After  revealing  the
+cards, the player with a  K and J of the
+Clubs suit can buy as many cards as they
+want to try to reverse the round if they
+are losing.  Remember that if  the round
+is tied, buying more  cards can create a
+risk  of  losing  the round  due  to  an
+excess of Js (Jacks / lovers).
 
-5.4 "Valiant couple" (two Spades) steals the JOKER (Clown, the humor) from the opponent and can use it in their own hand
-to remove an unwanted J (Jack / lover).
+5.4 "Valiant couple" (two Spades) steals
+the  JOKER (Clown,  the humor)  from the
+opponent  and can  use it  in their  own
+hand  to remove  an unwanted  J (Jack  /
+lover).
 
 
 6. END OF THE GAME
 ==================
 
-The game ends  when a player reaches  a sum of at  least 15 points, as it  would be impossible to  reverse the situation
+The game  ends when  a player  reaches a
+sum of  at least 15 points,  as it would
+be impossible  to reverse  the situation
 (A+2+3+4+5+6+7 = 28).
 
-It is possible  to create game variations with  fewer cards in the "treasure  chest." This way, the game  would end more
-quickly. If doing this,  always keep the smaller cards, for example:  A, 2, and 3. The total sum  would be 6; therefore,
-whoever reaches at least 4 points would win the game.
+It is possible to create game variations
+with  fewer   cards  in   the  "treasure
+chest."  This way,  the  game would  end
+more quickly. If doing this, always keep
+the  smaller cards,  for example:  A, 2,
+and  3.  The  total   sum  would  be  6;
+therefore,  whoever reaches  at least  4
+points would win the game.
 
-If the cards in the "treasure chest" run out and there is a tie  (for example, 14 x 14 or 3 x 3), an extra round must be
+If the cards in the "treasure chest" run
+out and there is  a tie (for example, 14
+x 14 or  3 x 3), an extra  round must be
 started to decide the final winner.
 
-[TODO: missing Gameplay Example chapter 7 in this manual, see "cha_pt-BR.txt" version].
+[TODO: missing  Gameplay Example chapter
+7  in this  manual, see  "cha_pt-BR.txt"
+version].
 
